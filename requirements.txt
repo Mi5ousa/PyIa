@@ -1,10 +1,7 @@
 # Core dependencies
-opencv-python==4.9.0.80
-mediapipe==0.10.11
-numpy==1.26.4
+opencv-python
+mediapipe
+numpy
 
 # GUI
-Pillow==10.3.0
-
-# Para Windows (opcional, se for gerar executável)
-pyinstaller==6.6.0
+Pillow
